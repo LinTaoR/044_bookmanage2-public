@@ -1,12 +1,4 @@
-### 作者QQ：1556708905(支持修改、 部署调试、 支持代做毕设)
 
-#### 支持代做任何毕设论、接网站建设、小程序、H5、APP、各种系统等
-
-**毕业设计所有选题地址 [https://github.com/zhengjianzhong0107/allProject](https://github.com/zhengjianzhong0107/allProject)**
-
-**博客地址：[https://blog.csdn.net/2303_76227485/article/details/128665437](https://blog.csdn.net/2303_76227485/article/details/128665437)**
-
-**视频演示：[https://space.bilibili.com/384537280](https://space.bilibili.com/384537280)**
 
 ## 基于Springboot+vue的图书管理系统(源代码+数据库)
 
